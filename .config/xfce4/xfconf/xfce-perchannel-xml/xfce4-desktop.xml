@@ -12,14 +12,12 @@
   <property name="backdrop" type="empty">
     <property name="screen0" type="empty">
       <property name="monitor0" type="empty">
-        <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
           <property name="last-image" type="string" value="/usr/share/backgrounds/ultramarine-linux/40/umbrella-dark.png"/>
           <property name="image-path" type="string" value="/usr/share/backgrounds/ultramarine-linux/40/umbrella-dark.png"/>
           <property name="last-single-image" type="string" value="/usr/share/backgrounds/ultramarine-linux/40/umbrella-dark.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="false"/>
-        </property>
       </property>
     </property>
   </property>
