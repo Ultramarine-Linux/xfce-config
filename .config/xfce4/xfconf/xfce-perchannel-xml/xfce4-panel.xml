@@ -13,7 +13,6 @@
       <property name="length" type="uint" value="100"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="7"/>
-        <value type="int" value="2"/>
         <value type="int" value="3"/>
         <value type="int" value="4"/>
         <value type="int" value="5"/>
@@ -35,13 +34,7 @@
       <property name="length" type="uint" value="1"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="15"/>
-        <value type="int" value="16"/>
         <value type="int" value="17"/>
-        <value type="int" value="18"/>
-        <value type="int" value="19"/>
-        <value type="int" value="20"/>
-        <value type="int" value="21"/>
-        <value type="int" value="22"/>
       </property>
       <property name="position" type="string" value="p=10;x=0;y=0"/>
       <property name="position-locked" type="bool" value="true"/>
@@ -59,34 +52,6 @@
     </property>
     <property name="plugin-14" type="string" value="actions"/>
     <property name="plugin-15" type="string" value="showdesktop"/>
-    <property name="plugin-16" type="string" value="separator"/>
-    <property name="plugin-17" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="17150610531.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-18" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="17150610532.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-19" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="17150610533.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-2" type="string" value="tasklist">
-      <property name="grouping" type="uint" value="1"/>
-    </property>
-    <property name="plugin-20" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="17150610534.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-21" type="string" value="separator"/>
-    <property name="plugin-22" type="string" value="directorymenu">
-      <property name="base-directory" type="string" value="/home/cappy"/>
-    </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
@@ -120,5 +85,8 @@
       <property name="show-notifications" type="bool" value="true"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-17" type="string" value="tasklist">
+      <property name="show-labels" type="bool" value="false"/>
+    </property>
   </property>
 </channel>
