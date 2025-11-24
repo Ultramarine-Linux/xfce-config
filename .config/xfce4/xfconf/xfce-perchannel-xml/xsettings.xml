@@ -5,7 +5,7 @@
 -->
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="Orchis-dark" />
+    <property name="ThemeName" type="string" value="Orchis-Dark" />
     <property name="IconThemeName" type="string" value="Papirus-Dark" />
     <property name="DoubleClickTime" type="int" value="400" />
     <property name="DoubleClickDistance" type="int" value="5" />
