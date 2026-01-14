@@ -43,6 +43,8 @@
     </property>
     <property name="custom" type="empty">
       <property name="&lt;Super&gt;r" type="string" value="xfce4-appfinder -c">
+      <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
+      <property name="Super_R" type="string" value="xfce4-popup-whiskermenu"/>
         <property name="XF86AudioPlay" type="string" value="pragha --pause"/>
         <property name="XF86AudioMedia" type="string" value="pragha"/>
         <property name="XF86Explorer" type="string" value="Thunar"/>
