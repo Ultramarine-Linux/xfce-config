@@ -76,6 +76,7 @@
       </property>
       <property name="button-single-row" type="bool" value="false"/>
       <property name="show-button-title" type="bool" value="true"/>
+      <property name="button-icon" type="string" value="/usr/share/icons/Bluecurve/22x22/apps/start-here.png"/>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
